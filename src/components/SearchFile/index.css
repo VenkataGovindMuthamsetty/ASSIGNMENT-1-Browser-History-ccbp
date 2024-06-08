@@ -1,0 +1,20 @@
+.bg-color {
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+}
+.header-section {
+  background-color: #3367d6;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.body-container {
+  width: 90%;
+  height: auto;
+  box-shadow: 20px 20px 50px lightblue;
+  margin: 40px;
+}
